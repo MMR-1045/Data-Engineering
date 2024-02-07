@@ -1,0 +1,5 @@
+details
+/docker_airflow_postgres/airflow/logs/dag_id=docker_airflow_postgresql_etl/
+/docker_airflow_postgres/airflow/logs/dag_processor_manager/
+/docker_airflow_postgres/airflow/logs/scheduler/latest
+/docker_airflow_postgres/.environment/

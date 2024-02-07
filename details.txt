@@ -1,0 +1,11 @@
+Building a Simple ETL with Airflow, PostgreSQL, and Docker
+Data collection from 
+ Creating Virtual Environment
+Let’s create a new directory named docker_airflow_postgres, and make sure you cd into docker_airflow_postgres this directory.
+Next, let’s create a virtual environment in the docker_airflow_postgres directory by running:
+python -m venv .environment
+
+And then run source .environment/Scripts/activate to activate the virtual environment.
+
+
+curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.8.0/docker-compose.yaml'
